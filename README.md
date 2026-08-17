@@ -30,7 +30,7 @@
 
   <code><img width="10%" src="https://vetores.org/d/visual-studio-code.svg"></code>
  <code><img width="10%" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"></code>
- <code><img width="10%" src="[https://toppng.com/uploads/preview/intellij-idea-logo-11609365307w3w15x9ipq.png](https://e7.pngegg.com/pngimages/788/545/png-clipart-ij-logo-with-black-blue-red-and-orange-background-intellij-idea-logo-icons-logos-emojis-tech-companies.png)"></code>
+ <code><img width="10%" src="https://toppng.com/uploads/preview/intellij-idea-logo-11609365307w3w15x9ipq.png"></code>
 <code><img width="10%" src="https://www.svgrepo.com/show/117653/sql-file-format.svg"></code>
 
 
