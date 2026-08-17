@@ -30,7 +30,7 @@
 
   <code><img width="10%" src="https://vetores.org/d/visual-studio-code.svg"></code>
  <code><img width="10%" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"></code>
- <code><img width="10%" src="https://uxwing.com/intellij-idea-ide-icon/"></code>
+ <code><img width="10%" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/intellij-idea-ide-icon.png"></code>
 <code><img width="10%" src="https://www.svgrepo.com/show/117653/sql-file-format.svg"></code>
 
 
